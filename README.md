@@ -73,6 +73,11 @@ This practical exercise was performed in a controlled learning environment using
 
 Thanks to **Networkwalks Academy** for providing this hands-on cybersecurity learning opportunity.
 
+## 👩‍💻 Author
+
+**Arfa Habib**
+
+NetworkWalks B084H | Cybersecurity Learner
 ---
 
 **#Cybersecurity #Networkwalks #EthicalHacking #JohnTheRipper #PasswordSecurity #DictionaryAttack #HandsOnLearning**
